@@ -1,0 +1,6 @@
+{
+  "name": "MWASE HYBRID",
+  "description": "Professional Hybrid AI Forex & Deriv Trading Terminal with Multi-Model AI Swarm, Real-time Scanner & Smart Execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
